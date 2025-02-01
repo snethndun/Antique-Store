@@ -100,3 +100,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 
 # Antique-Store-MERN
+# Antique-Shop-MERN
