@@ -79,7 +79,7 @@ npm test
 ## 🖼️ Screenshots
 
 **Homepage**
-![Homepage Screenshot](../Antique%20Store/imges/Home%20page%20auntique%20shop.png)
+![Homepage Screenshot](../images/Home page auntique shop.png)
 
 **Admin Dashboard**
 ![Admin Screenshot](../Antique%20Store/imges/Admin%20dash.png)
